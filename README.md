@@ -19,4 +19,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="30">
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Delord-Nzanzu&show_icons=true&theme=swift)
