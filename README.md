@@ -6,18 +6,21 @@
 Je suis un développeur passionné par la création de solutions logicielles innovantes. Voici un peu plus sur moi :
 
 - 🔭 Je travaille actuellement sur [prive](...)
-- 🌱 J'apprends actuellement [Ce que vous apprenez]
+- 🌱 J'apprends actuellement [...]
 - 👯 Je suis ouvert à collaborer sur [open source] [personnels]
 - 📫 Vous pouvez me contacter via [Email](mailto:wayirenzanzu@example.com)
 
 ## Technologies et outils
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React navite](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/sequelize-%23336792.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ## Statistiques GitHub
 
