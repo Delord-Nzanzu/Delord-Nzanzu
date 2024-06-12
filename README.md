@@ -21,9 +21,9 @@ Je suis un développeur passionné par la création de solutions logicielles inn
 
 ## Statistiques GitHub
 
-![Les statistiques GitHub de Delord-Nzanzu](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Les statistiques GitHub de Delord-Nzanzu](https://github-readme-stats.vercel.app/api?username=Delord-Nzanzu&show_icons=true&theme=radical)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Delord-Nzanzu&layout=compact&theme=radical)
 
 ## Suivez-moi
 
