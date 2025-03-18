@@ -5,16 +5,18 @@
 
 Fullstack Web and Mobile Developer, passionate about designing and developing modern and high-performance applications. With strong skills in React.js, React Native, Node.js, and Sequelize, I have gained solid experience in REST and GraphQL API development, database integration (SQL and NoSQL), and performance optimization. Having worked on various projects for businesses and organizations, I am proficient in Agile methodologies and version control tools like Git. Rigorous and creative, I am committed to delivering robust solutions tailored to users' needs.
 
-- 🔭 Je travaille actuellement sur [prive](...)
+- 🔭 I am currently working on [prive](...)
 - 🌱 I am currently learning [GraphQL, Agile methodologie]
 - 👯 I am open to collaborate on [open source] [personnels]
 - 📫 Contact with Me [Email](mailto:wayirenzanzu@example.com)
 
 ## Technologies and tools
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React navite](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
