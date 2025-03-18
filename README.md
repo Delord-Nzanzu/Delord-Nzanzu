@@ -1,16 +1,16 @@
-# Bonjour, je suis [Delord-Nzanzu] 👋
+# Hi, I'm Delord-Nzanzu 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=Delord-Nzanzu&color=blue)
 
-## À propos de moi
+## About me
 
-Je suis un développeur passionné par la création de solutions logicielles innovantes. Voici un peu plus sur moi :
+Fullstack Web and Mobile Developer, passionate about designing and developing modern and high-performance applications. With strong skills in React.js, React Native, Node.js, and Sequelize, I have gained solid experience in REST and GraphQL API development, database integration (SQL and NoSQL), and performance optimization. Having worked on various projects for businesses and organizations, I am proficient in Agile methodologies and version control tools like Git. Rigorous and creative, I am committed to delivering robust solutions tailored to users' needs.
 
 - 🔭 Je travaille actuellement sur [prive](...)
-- 🌱 J'apprends actuellement [...]
-- 👯 Je suis ouvert à collaborer sur [open source] [personnels]
-- 📫 Vous pouvez me contacter via [Email](mailto:wayirenzanzu@example.com)
+- 🌱 I am currently learning [GraphQL, Agile methodologie]
+- 👯 I am open to collaborate on [open source] [personnels]
+- 📫 Contact with Me [Email](mailto:wayirenzanzu@example.com)
 
-## Technologies et outils
+## Technologies and tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
@@ -22,7 +22,7 @@ Je suis un développeur passionné par la création de solutions logicielles inn
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/sequelize-%23336792.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 
-## Statistiques GitHub
+## GitHub Statistics
 
 ![Les statistiques GitHub de Delord-Nzanzu](https://github-readme-stats.vercel.app/api?username=Delord-Nzanzu&show_icons=true&theme=radical)
 
